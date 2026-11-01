@@ -32,7 +32,7 @@ The screenshots below are selected views. To explore the full project, open the 
 <div align="center">
 
 [![View HTML Dashboard](https://img.shields.io/badge/View%20HTML%20Dashboard-Live%20Demo-5b9cff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alimersal.github.io/Data-Analysis-Exam-Answers-/)
-[![Download Project](https://img.shields.io/badge/Download%20Project-ZIP-3ecf8e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alimersal/Data-Analysis-Exam-Answers-/archive/refs/heads/main.zip)
+[![Download Project](https://img.shields.io/badge/Download%20Project-ZIP-3ecf8e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alimersal/Data-Analysis-Exam-Answers-/archive/refs/heads/master.zip)
 </div>
 
 ---
