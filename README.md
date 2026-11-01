@@ -115,6 +115,7 @@ The screenshots below are selected views. To explore the full project, open the 
 
 **Option 2 — Run locally:**
 ```bash
+cd /d %USERPROFILE%\Downloads
 git clone https://github.com/alimersal/Data-Analysis-Exam-Answers-.git
 cd Data-Analysis-Exam-Answers-
 start index.html
