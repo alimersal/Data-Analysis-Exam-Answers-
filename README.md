@@ -87,24 +87,11 @@ The screenshots below are selected views. To explore the full project, open the 
 
 ## 🔍 My Analysis Process
 
-```mermaid
-flowchart LR
-    A[🗂️ Raw WWI Data] --> B[🧹 Excel Cleaning]
-    B --> C[📐 Data Modeling]
-    C --> D[📊 Power BI Report]
-    C --> E[💻 HTML Dashboard]
-    D --> F[💡 Business Insights]
-    E --> F
-    F --> G[✅ Delivered Value]
+<div align="center">
 
-    style A fill:#0d1117,stroke:#5b9cff,color:#e8edf4
-    style B fill:#0d1117,stroke:#5b9cff,color:#e8edf4
-    style C fill:#0d1117,stroke:#7b6ff0,color:#e8edf4
-    style D fill:#0d1117,stroke:#3ecf8e,color:#e8edf4
-    style E fill:#0d1117,stroke:#3ecf8e,color:#e8edf4
-    style F fill:#0d1117,stroke:#f0a030,color:#e8edf4
-    style G fill:#0d1117,stroke:#3ecf8e,color:#e8edf4
-```
+<img src="Assets/analysis_process.svg" alt="My Analysis Process" width="100%" style="max-width: 1100px; border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.4);"/>
+
+</div>
 
 ---
 
