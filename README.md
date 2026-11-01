@@ -63,25 +63,33 @@ The screenshots below are selected views. To explore the full project, open the 
 
 ## 🎯 What I Accomplished
 
+<div align="center">
+
 | ✅ | What I Did |
-|---|---|
+|:---:|:---|
 | 🧹 | Cleaned the raw WWI dataset — removed nulls, fixed duplicates, corrected data types |
 | 📊 | Built **4 Power BI report pages** with KPIs, slicers, drill-through, and custom visuals |
 | 💻 | Coded a responsive HTML dashboard with dark/light theme, sidebar filters, and interactive charts |
 | 💡 | Delivered clear business insights backed by data — not assumptions |
 
+</div>
+
 ---
 
 ## 📊 Dashboard Features
 
+<div align="center">
+
 | Feature | What It Does |
-|---|---|
+|:---:|:---|
 | 📌 KPI Cards | Show key numbers with trend indicators |
 | 🔎 Smart Filters | Filter by region, category, salesperson, or date |
 | 🌓 Dark / Light Theme | Switch themes instantly with no flicker |
 | 📱 Responsive Layout | Works on any screen size |
 | 📋 Data Tables | Sortable tables with row highlighting |
 | 🔍 Drill-Through | Click any chart to filter everything |
+
+</div>
 
 ---
 
